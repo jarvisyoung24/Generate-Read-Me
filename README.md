@@ -11,3 +11,12 @@ Problems we solved
 Learned to trouble shoot issues, including generating liciense badges, and creating a table of contents, as well as debugging amd trouble shooting
 
 
+## Table of Contents
+  * How to Use This Application
+  * Contributors
+  * Testing
+  * Questions
+  * License
+  * usage
+
+Contact me- Youngjarvis24@gmail.com
